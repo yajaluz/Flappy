@@ -1,5 +1,6 @@
 package Interface;
-//flappy bird desktop
+//flappy bird desk
+
 import flappy.Tela;
 
 public interface Jogo {
